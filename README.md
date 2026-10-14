@@ -1,6 +1,10 @@
 <h1 align="center">Hey, I'm Vaibhav Parkhi ☁️⚡</h1>
 
 <p align="center">
+  <img src="ascii-animation.svg" alt="Animated ASCII Salesforce terminal" width="820" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A1E0&center=true&vCenter=true&width=700&lines=Salesforce+Developer;Apex+%7C+LWC+%7C+SOQL+%7C+Integrations;Turning+business+problems+into+scalable+CRM+solutions;Always+on+the+Trailhead+%F0%9F%A5%BE" alt="Typing SVG" />
 </p>
 
